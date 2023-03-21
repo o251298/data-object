@@ -1,0 +1,19 @@
+{
+    "name": "codehigh/array-dto",
+    "require": {
+        "php": "^8.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Codehigh\\ArrayDto\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Oleh Hrokalo",
+            "email": "oleh.hrokalo@linemedia.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
