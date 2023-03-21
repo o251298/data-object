@@ -1,6 +1,6 @@
 <?php
 
-namespace Codehigh\ArrayDataObject;
+namespace Codehigh\ArrayDto;
 
 class BoolObject extends BaseDataObject implements DataObjectInterface
 {
